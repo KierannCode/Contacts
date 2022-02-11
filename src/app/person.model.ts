@@ -1,7 +1,5 @@
 export class Person {
-    name!: String;
-
-    private firstName!: string;
-    
+    private name!: number
     private age!: number;
+    private firstname!: String;
 }
